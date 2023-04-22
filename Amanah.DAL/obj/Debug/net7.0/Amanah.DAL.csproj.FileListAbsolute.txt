@@ -1,0 +1,14 @@
+E:\projs\AmanahTask\Amanah\Amanah.DAL\bin\Debug\net7.0\Amanah.DAL.deps.json
+E:\projs\AmanahTask\Amanah\Amanah.DAL\bin\Debug\net7.0\Amanah.DAL.runtimeconfig.json
+E:\projs\AmanahTask\Amanah\Amanah.DAL\bin\Debug\net7.0\Amanah.DAL.dll
+E:\projs\AmanahTask\Amanah\Amanah.DAL\bin\Debug\net7.0\Amanah.DAL.pdb
+E:\projs\AmanahTask\Amanah\Amanah.DAL\obj\Debug\net7.0\Amanah.DAL.csproj.AssemblyReference.cache
+E:\projs\AmanahTask\Amanah\Amanah.DAL\obj\Debug\net7.0\Amanah.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\projs\AmanahTask\Amanah\Amanah.DAL\obj\Debug\net7.0\Amanah.DAL.AssemblyInfoInputs.cache
+E:\projs\AmanahTask\Amanah\Amanah.DAL\obj\Debug\net7.0\Amanah.DAL.AssemblyInfo.cs
+E:\projs\AmanahTask\Amanah\Amanah.DAL\obj\Debug\net7.0\Amanah.DAL.csproj.CoreCompileInputs.cache
+E:\projs\AmanahTask\Amanah\Amanah.DAL\obj\Debug\net7.0\Amanah.DAL.dll
+E:\projs\AmanahTask\Amanah\Amanah.DAL\obj\Debug\net7.0\refint\Amanah.DAL.dll
+E:\projs\AmanahTask\Amanah\Amanah.DAL\obj\Debug\net7.0\Amanah.DAL.pdb
+E:\projs\AmanahTask\Amanah\Amanah.DAL\obj\Debug\net7.0\Amanah.DAL.genruntimeconfig.cache
+E:\projs\AmanahTask\Amanah\Amanah.DAL\obj\Debug\net7.0\ref\Amanah.DAL.dll

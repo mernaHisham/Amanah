@@ -1,0 +1,15 @@
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\bin\Debug\net7.0\Amanah.Interfaces.deps.json
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\bin\Debug\net7.0\Amanah.Interfaces.dll
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\bin\Debug\net7.0\Amanah.Interfaces.pdb
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\bin\Debug\net7.0\Amanah.DAL.dll
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\bin\Debug\net7.0\Amanah.DAL.pdb
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\obj\Debug\net7.0\Amanah.Interfaces.csproj.AssemblyReference.cache
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\obj\Debug\net7.0\Amanah.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\obj\Debug\net7.0\Amanah.Interfaces.AssemblyInfoInputs.cache
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\obj\Debug\net7.0\Amanah.Interfaces.AssemblyInfo.cs
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\obj\Debug\net7.0\Amanah.Interfaces.csproj.CoreCompileInputs.cache
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\obj\Debug\net7.0\Amanah.Interfaces.csproj.CopyComplete
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\obj\Debug\net7.0\Amanah.Interfaces.dll
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\obj\Debug\net7.0\refint\Amanah.Interfaces.dll
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\obj\Debug\net7.0\Amanah.Interfaces.pdb
+E:\projs\AmanahTask\Amanah\Amanah.Interfaces\obj\Debug\net7.0\ref\Amanah.Interfaces.dll

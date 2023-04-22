@@ -1,0 +1,15 @@
+E:\projs\AmanahTask\Amanah\Amanah.Repo\bin\Debug\net7.0\Amanah.Repo.deps.json
+E:\projs\AmanahTask\Amanah\Amanah.Repo\bin\Debug\net7.0\Amanah.Repo.dll
+E:\projs\AmanahTask\Amanah\Amanah.Repo\bin\Debug\net7.0\Amanah.Repo.pdb
+E:\projs\AmanahTask\Amanah\Amanah.Repo\bin\Debug\net7.0\Amanah.DAL.dll
+E:\projs\AmanahTask\Amanah\Amanah.Repo\bin\Debug\net7.0\Amanah.DAL.pdb
+E:\projs\AmanahTask\Amanah\Amanah.Repo\obj\Debug\net7.0\Amanah.Repo.csproj.AssemblyReference.cache
+E:\projs\AmanahTask\Amanah\Amanah.Repo\obj\Debug\net7.0\Amanah.Repo.GeneratedMSBuildEditorConfig.editorconfig
+E:\projs\AmanahTask\Amanah\Amanah.Repo\obj\Debug\net7.0\Amanah.Repo.AssemblyInfoInputs.cache
+E:\projs\AmanahTask\Amanah\Amanah.Repo\obj\Debug\net7.0\Amanah.Repo.AssemblyInfo.cs
+E:\projs\AmanahTask\Amanah\Amanah.Repo\obj\Debug\net7.0\Amanah.Repo.csproj.CoreCompileInputs.cache
+E:\projs\AmanahTask\Amanah\Amanah.Repo\obj\Debug\net7.0\Amanah.Repo.csproj.CopyComplete
+E:\projs\AmanahTask\Amanah\Amanah.Repo\obj\Debug\net7.0\Amanah.Repo.dll
+E:\projs\AmanahTask\Amanah\Amanah.Repo\obj\Debug\net7.0\refint\Amanah.Repo.dll
+E:\projs\AmanahTask\Amanah\Amanah.Repo\obj\Debug\net7.0\Amanah.Repo.pdb
+E:\projs\AmanahTask\Amanah\Amanah.Repo\obj\Debug\net7.0\ref\Amanah.Repo.dll
