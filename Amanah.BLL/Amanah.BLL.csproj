@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Amanah.DAL\Amanah.DAL.csproj" />
+    <ProjectReference Include="..\Amanah.Interfaces\Amanah.Interfaces.csproj" />
+    <ProjectReference Include="..\Amanah.Repo\Amanah.Repo.csproj" />
+  </ItemGroup>
+
+</Project>
