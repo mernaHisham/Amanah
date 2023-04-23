@@ -1,9 +1,7 @@
-using Amanah.DAL.Models;
 using Amanah.api.Services;
-using Microsoft.EntityFrameworkCore;
-using Newtonsoft.Json;
-using Microsoft.AspNetCore.Identity;
+using Amanah.DAL.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
@@ -30,8 +28,8 @@ builder.Services.AddAuthentication(op => {
         ValidateLifetime = true,
         ValidateIssuerSigningKey = true,
 
-        ValidIssuer = "https://localhost:7177",
-        ValidAudience = "https://localhost:7177",
+        ValidIssuer = "https://localhost:7025/",
+        ValidAudience = "https://localhost:7025/",
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("superSecretKey@345"))
     };
 });
