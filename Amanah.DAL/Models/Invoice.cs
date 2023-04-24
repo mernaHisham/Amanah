@@ -13,7 +13,7 @@ public partial class Invoice
 
     public double Value { get; set; }
 
-    public int PaymentMethod { get; set; }
+    public string PaymentMethod { get; set; } = null!;
 
     public int CreatedBy { get; set; }
 
@@ -22,8 +22,4 @@ public partial class Invoice
     public int? UpdatedBy { get; set; }
 
     public DateTime? UpdatedDate { get; set; }
-
-    public virtual User CreatedByNavigation { get; set; } = null!;
-
-    public virtual User? UpdatedByNavigation { get; set; }
 }

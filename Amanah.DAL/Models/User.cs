@@ -12,8 +12,4 @@ public partial class User
     public string Mail { get; set; } = null!;
 
     public string Password { get; set; } = null!;
-
-    public virtual ICollection<Invoice> InvoiceCreatedByNavigations { get; set; } = new List<Invoice>();
-
-    public virtual ICollection<Invoice> InvoiceUpdatedByNavigations { get; set; } = new List<Invoice>();
 }

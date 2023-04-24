@@ -38,21 +38,14 @@ public partial class AmanahDbContext : DbContext
             entity.Property(e => e.CustomerType)
                 .HasMaxLength(50)
                 .HasColumnName("customer_type");
-            entity.Property(e => e.PaymentMethod).HasColumnName("payment_method");
+            entity.Property(e => e.PaymentMethod)
+                .HasMaxLength(50)
+                .HasColumnName("payment_method");
             entity.Property(e => e.UpdatedBy).HasColumnName("updated_by");
             entity.Property(e => e.UpdatedDate)
                 .HasColumnType("datetime")
                 .HasColumnName("updated_date");
             entity.Property(e => e.Value).HasColumnName("value");
-
-            entity.HasOne(d => d.CreatedByNavigation).WithMany(p => p.InvoiceCreatedByNavigations)
-                .HasForeignKey(d => d.CreatedBy)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_Invoices_Users");
-
-            entity.HasOne(d => d.UpdatedByNavigation).WithMany(p => p.InvoiceUpdatedByNavigations)
-                .HasForeignKey(d => d.UpdatedBy)
-                .HasConstraintName("FK_Invoices_Users1");
         });
 
         modelBuilder.Entity<User>(entity =>
